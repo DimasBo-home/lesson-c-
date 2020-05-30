@@ -1,0 +1,18 @@
+D:\projects csharp\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\projects csharp\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\projects csharp\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\projects csharp\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\projects csharp\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\projects csharp\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\projects csharp\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\projects csharp\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\projects csharp\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Acer\myrepository\calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Acer\myrepository\calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Acer\myrepository\calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Acer\myrepository\calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Acer\myrepository\calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Acer\myrepository\calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Acer\myrepository\calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Acer\myrepository\calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Acer\myrepository\calculator\Calculator\obj\Debug\Calculator.pdb
