@@ -1,0 +1,3 @@
+C:\Users\Acer\lesson-c-\lab2_sem_2(OK CANCEL)\lab2\bin\Debug\OKnCANCEL.exe.config
+C:\Users\Acer\lesson-c-\lab2_sem_2(OK CANCEL)\lab2\obj\Debug\OKnCANCEL.exe
+C:\Users\Acer\lesson-c-\lab2_sem_2(OK CANCEL)\lab2\obj\Debug\OKnCANCEL.pdb
