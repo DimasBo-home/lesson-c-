@@ -1,0 +1,9 @@
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\WindowsFormsAppPhoneBook\WindowsFormsAppPhoneBook\bin\Debug\WindowsFormsAppPhoneBook.exe.config
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\WindowsFormsAppPhoneBook\WindowsFormsAppPhoneBook\obj\Debug\WindowsFormsAppPhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\WindowsFormsAppPhoneBook\WindowsFormsAppPhoneBook\obj\Debug\WindowsFormsAppPhoneBook.Properties.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\WindowsFormsAppPhoneBook\WindowsFormsAppPhoneBook\obj\Debug\WindowsFormsAppPhoneBook.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\WindowsFormsAppPhoneBook\WindowsFormsAppPhoneBook\bin\Debug\WindowsFormsAppPhoneBook.exe
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\WindowsFormsAppPhoneBook\WindowsFormsAppPhoneBook\bin\Debug\WindowsFormsAppPhoneBook.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\WindowsFormsAppPhoneBook\WindowsFormsAppPhoneBook\obj\Debug\WindowsFormsAppPhoneBook.Form1.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\WindowsFormsAppPhoneBook\WindowsFormsAppPhoneBook\obj\Debug\WindowsFormsAppPhoneBook.exe
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\WindowsFormsAppPhoneBook\WindowsFormsAppPhoneBook\obj\Debug\WindowsFormsAppPhoneBook.pdb
